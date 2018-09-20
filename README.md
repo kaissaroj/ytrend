@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+<p>Web Version: https://ytrend.herokuapp.com/</p>
+<p>Mobile Version (created in React Native): https://play.google.com/store/apps/details?id=com.ytrending</p>
+
+<hr>
+<p>This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).</p>
 
 ## Folder Structure
 
